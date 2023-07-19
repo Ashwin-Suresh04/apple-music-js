@@ -27,7 +27,7 @@ const ArtworkContainer = styled.div`
       height: 36vw;
       width: 36vw;
       display: block;
-      margin-right: 8px;
+      margin-right: 7px;
       max-height: 100%;
    }
 `;
